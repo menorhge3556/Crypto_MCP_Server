@@ -1,6 +1,7 @@
 # 🚀 Crypto MCP Server
 ## 📌 Overview
 
+
 Crypto MCP Server is a Model Context Protocol (MCP) compatible server that provides real-time and historical cryptocurrency market data using ccxt.
 It exposes three fully tested tools:
 
