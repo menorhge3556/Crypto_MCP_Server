@@ -11,7 +11,7 @@ class CryptoMCPServer:
             "output_schema": output_schema,
             "streaming": streaming
         }
-
+#check crypto mcu server
     async def run(self):
         print("Crypto MCP Server is running...")
 
